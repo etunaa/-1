@@ -1,0 +1,149 @@
+
+
+header{
+    display:flex;
+    justify-content:space-between;
+    height: 50px;
+    background-color: white;   
+}
+
+ul{
+    display: flex;
+    list-style: none;
+}
+
+.navigation{
+    100%
+}
+
+.name{
+    font-style: italic;
+    font-size: larger;
+    color: black;
+}
+
+.nav-link{
+    font-style: normal;
+    font-size:small;
+    color: rgb(31, 27, 27);
+    margin : 15%;
+}
+
+.button{
+    border: 0;
+    background-color:beige;
+}
+
+.banner-section{
+    margin-top:100px;
+    margin-bottom:100px;
+}
+
+section{
+    display: flex;
+    justify-content:space-between;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.card-header h1{
+    font-style: initial;
+    font-size: x-large;
+}
+
+.card-header p{
+    font-size: smaller;
+    font-style: normal;
+}
+
+.begin button{
+    background-color: rgb(228, 112, 189);
+    border-color: rgb(232, 129, 182);
+    
+}
+
+.description{
+    background-color: white;
+}
+
+.description aside{
+    margin-right: 50%;
+}
+
+.emoji{
+    font-size: 100px;
+}
+
+.emoji-section{
+    display: flex;
+    list-style: none;
+    
+}
+
+.nav-link1{
+    margin: 10%;
+    background-color: white;
+}
+
+.aside{
+    background-color:beige;
+}
+
+.box{
+    width:100%;
+    height:250px;
+    background-color:white;
+    padding-top: 20px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.box2{
+    float: left;
+    width: 20%;
+    height:100px;
+    background-color: rgb(169, 228, 208);
+    border: 3px;
+    margin-left:15px;
+}
+
+.h1{
+    margin-left: 40%;
+    
+}
+
+.box3{
+    width: 50%;
+    float: left;
+    margin-left: 10px;
+    background-color: rgb(255, 230, 197);
+    height: 100px;
+}
+
+.box4{
+    background-color: rgb(255, 230, 197);
+    height: 100px;
+}
+
+.box3 h1{
+    font-size: x-large;
+    margin: 20px;
+    color: black;
+}
+
+.box3 p{
+    font-size: medium;
+    margin: 30px;
+    color: black;
+}
+
+
+
+
+    
+
+    
+
+
+  
+
